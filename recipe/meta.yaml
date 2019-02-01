@@ -47,7 +47,7 @@ requirements:
     - python-louvain
     - requests
     - matplotlib >=2.0.0
-    - fasttsne >=0.2.12
+    - opentsne >=0.3.0
 
 test:
   commands:
